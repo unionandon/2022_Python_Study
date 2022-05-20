@@ -1,0 +1,9 @@
+BRCA1	1	exon6	c.442-34C>T	Heterozygote	IVS7-34C>T	Polymorphism
+BRCA1	2	exon10	c.1067A>G (p.Gln356Arg)	Heterozygote	1186A>G	Polymorphism
+BRCA2	1	exon2	c.-26G>A	Heterozygote	203G>A	Polymorphism
+BRCA2	2	exon11	c.3396A>G (p.Lys1132Lys)	Heterozygote	3624A>G	Polymorphism
+BRCA2	3	exon11	c.3807T>C (p.Val1269Val)	Heterozygote	4035T>C	Polymorphism
+BRCA2	4	exon11	c.4563A>G (p.Leu1521Leu)	Homozygote	4791A>G	Polymorphism
+BRCA2	5	exon11	c.6513G>C (p.Val2171Val)	Homozygote	6741G>C	Polymorphism
+BRCA2	6	exon11	c.6841+78_6841+81delAATT	Heterozygote	IVS11+79del4,IVS11+78del4,IVS11+80del4,IVS11+80delTTAA	Polymorphism
+BRCA2	7	exon14	c.7397T>C (p.Val2466Ala)	Homozygote	-	Polymorphism
