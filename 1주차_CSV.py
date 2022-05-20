@@ -6,8 +6,8 @@ ID가 ‘rs’로 시작하는 행만 필터링 진행하여 그 결과를 출�
 
 import sys, csv, re
 
-inf = "2022_05_study.csv"
-outf = "1주차_다윤.csv"
+inf = sys.argv[1] #"2022_05_study.csv"
+outf = sys.argv[2] #"1주차_다윤"
 
 pattern = re.compile("rs*")
 
